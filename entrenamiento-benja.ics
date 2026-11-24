@@ -1,0 +1,669 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan Benja Rumbo al sur//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Entrenamiento Benja
+X-WR-TIMEZONE:America/Santiago
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/Santiago
+BEGIN:STANDARD
+DTSTART:19700405T000000
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700906T000000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0300
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:benja-plan-20261123@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261123T210000
+DTEND;TZID=America/Santiago:20261123T211200
+SUMMARY:Rutina de tobillo
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: El plan nuevo parte hoy. Desde mañana\, carga
+  completa sin semana de adecuación.\n\nRutina de tobillo (12 min\, no s
+ e salta nunca)\n· Knee-to-wall 2×10/lado (anota cm: izq operado / der)
+ \n· Talón unilateral 2×15/pierna (2 s por rep)\n· Tibial anterior en
+  pared 2×20\n· Eversión/inversión: polea baja con tobillera o banda 
+ 2×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 s/pierna\n· 90/
+ 90 de cadera 5/lado\n\nPlan y registro: https://claude.ai/artifact/JQ7wd
+ trhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261124@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261124T190000
+DTEND;TZID=America/Santiago:20261124T210000
+SUMMARY:Fuerza A · Vuelve la carga + 45' Z2
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Primera Fuerza A desde el 30/10\, sin adecuaci
+ ón: subes sobre lo último (55 kg) y autorregulas con la primera serie.
+ \n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2×10/la
+ do · 90/90 5/lado · monster walk 2×15 · talones 1×15\n\nBloque prin
+ cipal\nA1 Sentadilla trasera (barra libre\, peso con barra): 4×5 @ RIR 
+ 2 · 1.ª serie 57\,5 kg → si sale RIR 3 o más\, 60 kg en las otras 3
+  · desc 2\,5–3 min · tempo 3-0-1\nB1 RDL: 3×6 @ RIR 2 · 50 kg · d
+ esc 2 min · tempo 3-0-1\nB2 Dead bug (superserie con B1): 3×8/lado · 
+ 8 kg por brazo\nC1 Búlgara: 3×8/pierna @ RIR 2 · 12 kg por mano · de
+ sc 90 s\nC2 Step-down hacia adelante (superserie con C1): 3×8/pierna ·
+  cajón 30 cm + mancuernas 4 kg (sin peso si el control baja) · bajada 
+ 4 s\nD1 Gemelo (calf press): 3×8–10 @ RIR 1–2 · 100 kg\nD2 Sóleo 
+ sentado (superserie con D1): 3×15 @ RIR 1 · 25 kg\nD3 Tibial en pared:
+  2×20\nE Pallof en polea: 3×10/lado · 12\,5 kg\n\nFinal\n45 min bici 
+ estática Z2 (RPE 3–4\, 85–95 rpm)\n\nCronometra descansos y haz las
+  superseries: meta ~2 h con la bici incluida.\n\nTobillo: cuándo parar\
+ nReduce si el dolor llega a 3/10\, sube durante la serie\, dura >24 h o 
+ hay rigidez matinal >30–45 min.\nDetén y consulta si hay dolor sobre 
+ la sindesmosis o la placa\, inestabilidad\, hinchazón\, hormigueo\, blo
+ queo o Aquiles que empeora.\n\nPlan y registro: https://claude.ai/artifa
+ ct/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261125@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261125T190000
+DTEND;TZID=America/Santiago:20261125T204000
+SUMMARY:Cardio · Umbral 3×12' + caminadora 12 kg
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Directo a intervalos de 12 min (el plan anteri
+ or empezaba en 8). La mochila sube a 12 kg\; la inclinación se queda en
+  12 %.\n\nBici estática del gimnasio (las bicis del viaje están en tal
+ ler hasta el primer finde de diciembre).\n\nSesión\nBici: 12 min calent
+ amiento (incluye 2×1 min a RPE 7) → 3×12 min a RPE 7\, recuperación
+  4 min suave → transición <3 min → caminadora 25 min al 12 % con mo
+ chila 12 kg\, 4\,5–5 km/h\, sin barras → 5 min plano.\n\nUmbral: RPE
+  7\, 3–5 palabras\, ~170–180 ppm. Si el tercer intervalo sale peor q
+ ue el primero\, empezaste muy fuerte. Anota nivel o vatios: es tu refere
+ ncia.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNp
+ gNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261126@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261126T190000
+DTEND;TZID=America/Santiago:20261126T203000
+SUMMARY:Cardio fuerte · VO₂max 5×3' + caminadora
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Jueves nuevo (reemplaza natación): cardio fue
+ rte en el gimnasio.\n\nBici estática del gimnasio (las bicis del viaje 
+ están en taller hasta el primer finde de diciembre).\n\nSesión\nBici: 
+ 15 min calentamiento → 5×3 min a RPE 9\, recuperación 3 min muy suav
+ e → 10 min Z2 → caminadora 30 min al 12 % con mochila 10 kg\, sin ba
+ rras → 5 min plano.\nLos primeros 60–90 s de cada repetición un poc
+ o contenidos: la quinta debe salir igual que la primera.\nRegla: <6 h de
+  sueño tres noches seguidas → todo en Z2.\n\nPlan y registro: https:/
+ /claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261127@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261127T190000
+DTEND;TZID=America/Santiago:20261127T203500
+SUMMARY:Fuerza B · Densidad con mochila 12 kg
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Más carga en todo. Último viernes antes de u
+ n finde de trabajo: rige la regla del viernes.\n\nCalentamiento (8 min)\
+ nBici 4 min RPE 3–4 · knee-to-wall 2×10/lado · 90/90 5/lado · mons
+ ter walk 2×15 · talones 1×15 · talón unilateral 2×10 · equilibrio
+  2×20 s/pierna\n\nBloque principal (descansos 60 s)\nA1 Prensa: 3×15 @
+  RIR 3 · 105 kg\nB1 Step-up 45 cm con mochila 12 kg: 4×10/pierna\nB2 R
+ emo en máquina (superserie con B1): 3×12 · 47\,5 kg\nC1 RDL a una pie
+ rna: 3×10/pierna @ RIR 3 · mancuerna 12 kg\nC2 Jalón (superserie con 
+ C1): 3×10 @ RIR 2 · 42\,5 kg\nD1 Talón unilateral: 3×15/pierna (anot
+ a diferencia izq/der)\nD2 Eversión/inversión (polea baja o banda): 2×
+ 15/lado\nE Suitcase carry: 3×50 m/lado · 16 kg\nF Plancha lateral: 3×
+ 45 s/lado\nG Equilibrio inestable: 3×45 s/pierna\n\nFinal\n30 min bici 
+ Z2 suave\n\nRegla del viernes: si al terminar piensas que los 20 km de m
+ añana serán un problema\, avisa y ajustamos.\n\nPlan y registro: https
+ ://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261128@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Trabajo · último fin de semana
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Último fin de semana de trabajo. Los >20 km c
+ aminando cuentan como carga aeróbica.\n\nCome durante el turno\, hidrá
+ tate y cena con carbohidratos.\n\nPlan y registro: https://claude.ai/art
+ ifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261129@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+SUMMARY:Trabajo · último fin de semana
+DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
+  trabajo]\n\nQUÉ CAMBIA: Último fin de semana de trabajo. Los >20 km c
+ aminando cuentan como carga aeróbica.\n\nCome durante el turno\, hidrá
+ tate y cena con carbohidratos.\n\nPlan y registro: https://claude.ai/art
+ ifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261130@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261130T090000
+DTEND;TZID=America/Santiago:20261130T110000
+SUMMARY:Bici Z2 90' + tobillo + core
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Lunes con entrenamiento: volumen aeróbico largo.
+ \n\nBici estática del gimnasio (las bicis del viaje están en taller ha
+ sta el primer finde de diciembre).\n\nSesión\n90 min bici Z2 (RPE 3–4
+ \, 85–95 rpm). Últimos 10 min a RPE 5.\n\nRutina de tobillo (12 min\,
+  no se salta nunca)\n· Knee-to-wall 2×10/lado (anota cm: izq operado /
+  der)\n· Talón unilateral 2×15/pierna (2 s por rep)\n· Tibial anteri
+ or en pared 2×20\n· Eversión/inversión: polea baja con tobillera o b
+ anda 2×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 s/pierna\n
+ · 90/90 de cadera 5/lado\n\nCore (10 min)\n· Plancha frontal 3×45 s\n
+ · Plancha lateral 2×40 s/lado\n· Dead bug 2×10/lado (sin carga o 4 k
+ g)\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261201@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261201T090000
+DTEND;TZID=America/Santiago:20261201T104500
+SUMMARY:Fuerza A · Pico de fuerza 5×4 + 30' Z2
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Cambio de rango a 5×4: +5–10 % de carga.\n\nCa
+ lentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2×10/lado · 
+ 90/90 5/lado · monster walk 2×15 · talones 1×15\n\nBloque principal\
+ nA1 Sentadilla: 5×4 @ RIR 2 · 62\,5 kg (65 kg si el 24/11 hiciste todo
+  con 60 kg a RIR 3) · desc 3 min\nB1 RDL: 3×5–6 @ RIR 2 · 52\,5 kg\
+ nB2 Dead bug: 3×8/lado · 10 kg\nC1 Búlgara: 3×6/pierna @ RIR 2 · 14
+  kg por mano\nC2 Step-down: 3×8/pierna · cajón 35 cm + 6 kg\nD1 Gemel
+ o: 3×8–10 · 105 kg · D2 Sóleo: 3×15 · 27\,5 kg\nD3 Tibial 2×20 
+ · E Pallof 3×10/lado · 12\,5 kg\n\nFinal\n30 min bici Z2\n\nTobillo: 
+ cuándo parar\nReduce si el dolor llega a 3/10\, sube durante la serie\,
+  dura >24 h o hay rigidez matinal >30–45 min.\nDetén y consulta si ha
+ y dolor sobre la sindesmosis o la placa\, inestabilidad\, hinchazón\, h
+ ormigueo\, bloqueo o Aquiles que empeora.\n\nPlan y registro: https://cl
+ aude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261202@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261202T090000
+DTEND;TZID=America/Santiago:20261202T101500
+SUMMARY:Cardio · VO₂max 6×3'
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: +1 repetición respecto del jueves pasado.\n\nBic
+ i estática del gimnasio (las bicis del viaje están en taller hasta el 
+ primer finde de diciembre).\n\nSesión\n15 min calentamiento → 6×3 mi
+ n a RPE 9\, rec 3 min → 20 min Z2 → 5 min suave.\n\nPlan y registro:
+  https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261203@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261203T090000
+DTEND;TZID=America/Santiago:20261203T105000
+SUMMARY:Cardio fuerte · Mixta bici + caminadora 12 kg
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Brick: subir con mochila con las piernas cargadas
+  de pedalear (llegar al camping y subir al mirador).\n\nBici estática d
+ el gimnasio (las bicis del viaje están en taller hasta el primer finde 
+ de diciembre).\n\nSesión\nBici 50 min: 15 Z2 + 2×12 min a RPE 7 (rec 4
+ ) → transición <3 min → caminadora 50 min al 12 % con mochila 12 kg
+ \, 4\,5–5 km/h\, sin barras → 5 min plano.\n\nPlan y registro: https
+ ://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261204@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261204T090000
+DTEND;TZID=America/Santiago:20261204T102000
+SUMMARY:Fuerza B · Circuito ×4 con 12 kg
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Circuito de 4 vueltas. El sábado hay trekking: s
+ i el viernes te deja muy cargado\, haz 3.\n\nCalentamiento (8 min)\nBici
+  4 min RPE 3–4 · knee-to-wall 2×10/lado · 90/90 5/lado · monster w
+ alk 2×15 · talones 1×15 · talón unilateral 2×10 · equilibrio 2×2
+ 0 s/pierna\n\nCircuito con mochila 12 kg (sin pausa entre estaciones\, 9
+ 0 s entre vueltas) ×4\nStep-up 45 cm 12/pierna → RDL a una pierna (ma
+ ncuerna 12 kg) 10/pierna → suitcase carry 16 kg 40 m/lado → talón u
+ nilateral 15/pierna → plancha lateral 45 s/lado\n\nSin mochila\nPrensa
+  3×15 · 110 kg · remo 3×12 · 47\,5 kg + jalón 3×10 · 42\,5–45 
+ kg · eversión/inversión 2×15 · equilibrio 3×45 s\n\nPlan y registr
+ o: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261205@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261205T073000
+DTEND;TZID=America/Santiago:20261205T123000
+SUMMARY:[Por confirmar] Carbón + Manquehue a tu ritmo\, 12 kg
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Primer fin de semana libre. Repites la ruta del 1
+ 5–16/11\, ahora a tu ritmo y con mochila: es tu test de trekking. Por 
+ confirmar.\n\nSesión\nCerro El Carbón + Manquehue\, ida y vuelta\, moc
+ hila 12 kg y bastones.\nReferencia (a ritmo de Catalina): inicio → El 
+ Litre 45 min · → cumbre Carbón 1 h · → cueva 1 h 30 · → cumbre
+  Manquehue 1 h 30 · bajada ~3 h 30.\nMeta: 5–6\,5 h en movimiento. An
+ ota tiempos parciales.\nBajada: pasos cortos\, sin frenar con el talón.
+  Es lo que más importa para Cochamó y Las Horquetas.\n\nSI NO SE HACE 
+ LA SALIDA (gimnasio): Caminadora 90 min al 12 % con 12 kg (sin barras) +
+  30 min bici Z2 + step-down 3×8/pierna.\n\nPlan y registro: https://cla
+ ude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261206@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261206T090000
+DTEND;TZID=America/Santiago:20261206T111500
+SUMMARY:Bici larga en gimnasio 2 h + core
+DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
+ lumen]\n\nQUÉ CAMBIA: Bicis en taller: el segundo día del bloque va en
+  el gimnasio. Piernas cargadas del trekking = estímulo de días seguido
+ s.\n\nBici estática del gimnasio (las bicis del viaje están en taller 
+ hasta el primer finde de diciembre).\n\nSesión\n2 h bici Z2 (RPE 3–4)
+ \; cada 30 min\, 5 min a RPE 6 sentado a 60–70 rpm (simula subida carg
+ ada).\n\nCore (10 min)\n· Plancha frontal 3×45 s\n· Plancha lateral 2
+ ×40 s/lado\n· Dead bug 2×10/lado (sin carga o 4 kg)\n\nPlan y registr
+ o: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261207@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261207T090000
+DTEND;TZID=America/Santiago:20261207T110000
+SUMMARY:Bici Z2 90' + tobillo + core
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Si las bicis salieron del taller\, en la calle con t
+ u bici (mejor para sillín y manos). Si no\, en el gimnasio.\n\nSesión\
+ n90 min bici Z2. Si es tu bici: primera salida después del taller\, rev
+ isa cambios\, frenos y posición.\n\nRutina de tobillo (12 min\, no se s
+ alta nunca)\n· Knee-to-wall 2×10/lado (anota cm: izq operado / der)\n
+ · Talón unilateral 2×15/pierna (2 s por rep)\n· Tibial anterior en p
+ ared 2×20\n· Eversión/inversión: polea baja con tobillera o banda 2
+ ×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 s/pierna\n· 90/9
+ 0 de cadera 5/lado\n\nCore (10 min)\n· Plancha frontal 3×45 s\n· Plan
+ cha lateral 2×40 s/lado\n· Dead bug 2×10/lado (sin carga o 4 kg)\n\nP
+ lan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261208@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261208T090000
+DTEND;TZID=America/Santiago:20261208T103000
+SUMMARY:Feriado · Fuerza A + bici Z2 en la tarde
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Doble sesión aprovechando el feriado. 4×4 con más
+  carga.\n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2
+ ×10/lado · 90/90 5/lado · monster walk 2×15 · talones 1×15\n\nMañ
+ ana · Fuerza A\nA1 Sentadilla: 4×4 @ RIR 1–2 · 65 kg (o +2\,5 kg so
+ bre el 1/12)\nB1 RDL: 3×5 @ RIR 2 · 55 kg\nB2 Dead bug: 3×8/lado · 1
+ 0 kg\nC1 Búlgara: 3×6/pierna @ RIR 2 · 16 kg por mano\nC2 Step-down: 
+ 3×8/pierna · 35 cm + 8 kg\nD1 Gemelo 3×8–10 · 110 kg · D2 Sóleo 
+ 3×15 · 30 kg · D3 Tibial 2×20 · E Pallof 3×10 · 12\,5 kg\n\nTarde
+  · Bici\n90 min Z2 (en la calle si la bici ya está lista\, plano y sua
+ ve).\n\nTobillo: cuándo parar\nReduce si el dolor llega a 3/10\, sube d
+ urante la serie\, dura >24 h o hay rigidez matinal >30–45 min.\nDetén
+  y consulta si hay dolor sobre la sindesmosis o la placa\, inestabilidad
+ \, hinchazón\, hormigueo\, bloqueo o Aquiles que empeora.\n\nPlan y reg
+ istro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261209@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261209T090000
+DTEND;TZID=America/Santiago:20261209T104000
+SUMMARY:Cardio · Umbral 3×15' + caminadora 13 %
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Intervalos de 12 a 15 min. La inclinación sube a 13
+  %\; la mochila se queda en 12 kg.\n\nSesión\nBici: 15 min calentamient
+ o → 3×15 min a RPE 7\, rec 4 min → transición → 20 min caminador
+ a al 13 % con 12 kg → fin.\n\nPlan y registro: https://claude.ai/artif
+ act/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261210@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261210T090000
+DTEND;TZID=America/Santiago:20261210T104000
+SUMMARY:Cardio fuerte · Cambios de ritmo + caminadora
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Simula subidas de ripio con repechos: cambios de rit
+ mo sostenidos.\n\nSesión\nBici: 15 min calentamiento → 4×8 min alter
+ nando 2 min a RPE 8 / 2 min a RPE 6\, rec 4 min suave → 10 min Z2 → 
+ caminadora 30 min al 13 % con 12 kg → 5 min plano.\n\nPlan y registro:
+  https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261211@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261211T090000
+DTEND;TZID=America/Santiago:20261211T102000
+SUMMARY:Fuerza B · Circuito ×4 con 12 kg (rápido)
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Mismo circuito con 60 s entre vueltas (antes 90 s).\
+ n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2×10/lad
+ o · 90/90 5/lado · monster walk 2×15 · talones 1×15 · talón unila
+ teral 2×10 · equilibrio 2×20 s/pierna\n\nCircuito con mochila 12 kg 
+ ×4 (60 s entre vueltas)\nStep-up 45 cm 12/pierna → RDL a una pierna 1
+ 4 kg 10/pierna → carry 16–18 kg 40 m/lado → talón unilateral 15/p
+ ierna → plancha lateral 45 s/lado\n\nSin mochila\nPrensa 3×15 · 115 
+ kg · remo 3×12 · 50 kg + jalón 3×10 · 45 kg · eversión/inversió
+ n 2×15 · equilibrio 3×45 s\n\nPlan y registro: https://claude.ai/arti
+ fact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261212@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261212T073000
+DTEND;TZID=America/Santiago:20261212T113000
+SUMMARY:[Por confirmar] Bici larga 4 h\, Cajón del Maipo
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Primera salida larga con tu bici. Con alforjas si el
+  equipo ya llegó\; si no\, sin carga. Por confirmar.\n\nSesión\nRuta s
+ ugerida: Puente Alto → San José de Maipo → San Gabriel y unos km de
+  ripio\, vuelta por el mismo camino (≈75–80 km\, ≈1.000–1.300 m 
+ D+ estimado\; mide con GPS).\nZ2 con subidas a RPE 5–6\, sentado a 60
+ –70 rpm. Paradas cada 60–90 min\, 60–90 g de carbohidrato por hora
+ \, 500–750 ml de agua por hora. Sal temprano por el calor.\nUn día t
+ ípico de la Carretera son 45–75 km con 700–1.500 m D+ en ripio.\nAn
+ ota: km\, D+\, tiempo en movimiento\, sillín\, manos\, rodillas\, Aquil
+ es.\n\nSI NO SE HACE LA SALIDA (gimnasio): Bici estática 2 h 30: Z2 con
+  4×15 min a RPE 6 sentado a 60–70 rpm + 30 min caminadora al 12 % con
+  12 kg.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1U
+ NpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261213@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261213T070000
+DTEND;TZID=America/Santiago:20261213T140000
+SUMMARY:[Por confirmar] Trekking ~1.200 m D+ con 12 kg
+DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
+ le]\n\nQUÉ CAMBIA: Trekking con las piernas cargadas de bici\, como Las
+  Horquetas después de pedalear desde Coyhaique. Por confirmar.\n\nSesi
+ ón\nOpción A: Cerro Provincia hasta completar ~1.200 m de desnivel y v
+ uelta por el mismo sendero (no a cumbre).\nOpción B: Carbón + Manquehu
+ e con 12 kg y comparar con los tiempos del 5/12.\nSal muy temprano\, 3 L
+  de agua mínimo\, bastones.\nSi ayer la bici te dejó dolor articular o
+  tendinoso (no muscular)\, haz solo la opción B hasta el Carbón.\n\nSI
+  NO SE HACE LA SALIDA (gimnasio): Caminadora 1 h 45 al 12–13 % con 12 
+ kg (sin barras) + step-down 3×10/pierna + 20 min bici Z2.\n\nPlan y reg
+ istro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261214@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261214T090000
+DTEND;TZID=America/Santiago:20261214T103000
+SUMMARY:Bici Z2 60' + TEST 3 de tobillo
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Lunes más corto después del bloque\, con los tests de to
+ billo.\n\nTEST 3 de tobillo (antes de la bici)\n1. Knee-to-wall ambos la
+ dos (cm). Referencia 30/10: izq 10 · der 8.\n2. Talón unilateral 2 s p
+ or rep hasta fallo técnico. Asimetría >20 % = a corregir.\n3. Equilibr
+ io monopodal ojos cerrados (s).\n\nSesión\n60 min bici Z2.\n\nCore (10 
+ min)\n· Plancha frontal 3×45 s\n· Plancha lateral 2×40 s/lado\n· De
+ ad bug 2×10/lado (sin carga o 4 kg)\n\nPlan y registro: https://claude.
+ ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261215@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261215T090000
+DTEND;TZID=America/Santiago:20261215T104000
+SUMMARY:Fuerza A · Semana pico + TEST 3 + 20' Z2
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: +2\,5 kg en la sentadilla y AMRAP de test. Última Fuerza 
+ A con volumen completo.\n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 
+ · knee-to-wall 2×10/lado · 90/90 5/lado · monster walk 2×15 · talo
+ nes 1×15\n\nBloque principal\nA1 Sentadilla: 4×4 @ RIR 1–2 · 67\,5 
+ kg → luego 1 serie AMRAP hasta RIR 2 con 55 kg (TEST)\nB1 RDL: 3×5 @ 
+ RIR 2 · 57\,5 kg\nC1 Búlgara: 3×6/pierna · 16 kg · C2 Step-down: 3
+ ×8/pierna · 35 cm + 8 kg\nD1 Gemelo 110 kg · D2 Sóleo 30 kg · D3 Ti
+ bial · E Pallof\n\nFinal\n20 min bici Z2\n\nTobillo: cuándo parar\nRed
+ uce si el dolor llega a 3/10\, sube durante la serie\, dura >24 h o hay 
+ rigidez matinal >30–45 min.\nDetén y consulta si hay dolor sobre la s
+ indesmosis o la placa\, inestabilidad\, hinchazón\, hormigueo\, bloqueo
+  o Aquiles que empeora.\n\nPlan y registro: https://claude.ai/artifact/J
+ Q7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261216@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261216T090000
+DTEND;TZID=America/Santiago:20261216T102000
+SUMMARY:Cardio · VO₂max 7×3'
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Pico de VO₂max: 7 repeticiones.\n\nSesión\n15 min calen
+ tamiento → 7×3 min a RPE 9\, rec 3 min → 15 min Z2 → 5 min suave.
+ \n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261217@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261217T090000
+DTEND;TZID=America/Santiago:20261217T104500
+SUMMARY:Cardio fuerte · Ensayo de mochila real 14 kg
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Única vez sobre el tope de 12 kg: pruebas el peso real co
+ n el que subirás a Cochamó. Para compensar\, la inclinación baja a 10
+  %.\n\nSesión\nBici 30 min Z2 con 3×5 min a RPE 7 → caminadora 60 mi
+ n al 10 % con la mochila de Cochamó (14 kg\; si pesa más\, entrena con
+  14 y revisa qué sobra)\, sin barras → 10 min bici suave.\nAnota: roc
+ es de hombros y cadera\, calzado\, tobillo.\n\nPlan y registro: https://
+ claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261218@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261218T090000
+DTEND;TZID=America/Santiago:20261218T100000
+SUMMARY:Fuerza B ligera · tren superior + tobillo
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Sin piernas pesadas: mañana empieza el bloque de fin de s
+ emana.\n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2
+ ×10/lado · 90/90 5/lado · monster walk 2×15 · talones 1×15 · tal
+ ón unilateral 2×10 · equilibrio 2×20 s/pierna\n\nSesión\nRemo 3×12
+  · 50 kg · jalón 3×10 · 45 kg · press de hombro con mancuernas 2×
+ 10 · carry 3×40 m/lado · 16 kg · talón unilateral 3×15 · eversió
+ n/inversión 2×15 · equilibrio 3×45 s · plancha lateral 3×45 s\n\nT
+ arde: si el bikepacking está confirmado\, arma la bici con TODO el equi
+ po del viaje.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6D
+ H1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261219@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261219T070000
+DTEND;TZID=America/Santiago:20261219T140000
+SUMMARY:[Por confirmar] Bikepacking día 1\, Cajón del Maipo
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Ensayo general del viaje: todo el equipo\, día largo con 
+ desnivel y ripio\, noche en carpa. Depende de que lleguen las alforjas. 
+ Por confirmar.\n\nSesión\nPuente Alto → San José de Maipo → San Ga
+ briel → Baños Morales/Lo Valdés (≈70–80 km\, ≈1.300–1.500 m 
+ D+ estimado\, últimos km de ripio). Si vas lento\, quédate en un campi
+ ng antes (San Alfonso o El Volcán).\nAntes de ir: confirma camping y pr
+ ecio (pendiente de verificar).\nCocina con tu sistema\, arma la carpa\, 
+ anota qué sobra y qué falta. Regla: nada se estrena en el viaje.\n\nSI
+  NO SE HACE LA SALIDA (gimnasio): Sin alforjas: bici larga 4–5 h sin c
+ arga por la misma ruta\, ida y vuelta. Sin bici: bici estática 3 h Z2 c
+ on 4×15 min a RPE 6 + core.\n\nPlan y registro: https://claude.ai/artif
+ act/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261220@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261220T073000
+DTEND;TZID=America/Santiago:20261220T143000
+SUMMARY:[Por confirmar] Bikepacking día 2: trekking + vuelta
+DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
+ nQUÉ CAMBIA: Bici + trekking el mismo fin de semana\, como en Pumalín 
+ o Queulat. Por confirmar.\n\nSesión\nOpción: Monumento Natural El Mora
+ do (laguna y glaciar\, ≈600–700 m D+\, mochila de día). Verifica en
+  pasesparques.cl si requiere reserva y la hora de cierre del ingreso. No
+  dejes las bicis sin candado ni a la vista.\nVuelta en bici a Santiago (
+ ≈70–80 km casi todo en bajada\; ojo con el frenado cargado).\n\nSI N
+ O SE HACE LA SALIDA (gimnasio): Caminadora 1 h 30 al 12 % con 12 kg + 45
+  min bici Z2.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6D
+ H1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261221@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+TRANSP:TRANSPARENT
+SUMMARY:Recuperación · tobillo + bici suave + mecánica
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Empieza la pre-salida: misma intensidad\, ~
+ 40 % menos volumen.\n\nRutina de tobillo (12 min\, no se salta nunca)\n
+ · Knee-to-wall 2×10/lado (anota cm: izq operado / der)\n· Talón unil
+ ateral 2×15/pierna (2 s por rep)\n· Tibial anterior en pared 2×20\n·
+  Eversión/inversión: polea baja con tobillera o banda 2×15/lado\n· E
+ quilibrio monopodal ojos cerrados 2×45 s/pierna\n· 90/90 de cadera 5/l
+ ado\n\nSesión\n45 min bici Z1–Z2 suave.\nRevisa la bici: frenos\, cad
+ ena\, pernos de parrilla\, pastillas. Lo que falló el finde se arregla 
+ hoy.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpg
+ NG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261222@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261222T090000
+DTEND;TZID=America/Santiago:20261222T095500
+SUMMARY:Fuerza A · pre-salida
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Mismas cargas\, menos series. Step-down liv
+ iano: en 6 días bajas de Cochamó.\n\nCalentamiento (8 min)\nBici 4 min
+  RPE 3–4 · knee-to-wall 2×10/lado · 90/90 5/lado · monster walk 2
+ ×15 · talones 1×15\n\nSesión\nA1 Sentadilla: 3×4 @ RIR 2 · 67\,5 k
+ g (carga del 15/12)\nB1 RDL: 2×5 @ RIR 2 · 57\,5 kg\nC1 Búlgara: 2×6
+ /pierna · 16 kg\nC2 Step-down: 2×6/pierna · peso corporal\nD1 Gemelo 
+ 2×10 · D2 Sóleo 2×15 · D3 Tibial 2×20 · E Pallof 2×10\n\nPlan y 
+ registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261223@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261223T090000
+DTEND;TZID=America/Santiago:20261223T095000
+SUMMARY:Cardio · VO₂max abridor 4×3'
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Intensidad completa\, volumen bajo.\n\nSesi
+ ón\n12 min calentamiento → 4×3 min a RPE 9\, rec 3 min → 10 min Z2
+ .\n\nRecordatorio: confirma el día de despacho de las bicis a Puerto Mo
+ ntt (llegan al alojamiento del 02/01).\n\nPlan y registro: https://claud
+ e.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261224@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261224T090000
+DTEND;TZID=America/Santiago:20261224T101500
+SUMMARY:Caminadora suave con 8 kg + tobillo
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Último estímulo de mochila\, suave.\n\nSe
+ sión\n60 min caminadora al 8–10 % con 8 kg\, Z2.\n\nRutina de tobillo
+  (12 min\, no se salta nunca)\n· Knee-to-wall 2×10/lado (anota cm: izq
+  operado / der)\n· Talón unilateral 2×15/pierna (2 s por rep)\n· Tib
+ ial anterior en pared 2×20\n· Eversión/inversión: polea baja con tob
+ illera o banda 2×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 s
+ /pierna\n· 90/90 de cadera 5/lado\n\nPlan y registro: https://claude.ai
+ /artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261225@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+TRANSP:TRANSPARENT
+SUMMARY:Navidad · descanso
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Descanso. Solo tobillo.\n\nRutina de tobill
+ o (12 min\, no se salta nunca)\n· Knee-to-wall 2×10/lado (anota cm: iz
+ q operado / der)\n· Talón unilateral 2×15/pierna (2 s por rep)\n· Ti
+ bial anterior en pared 2×20\n· Eversión/inversión: polea baja con to
+ billera o banda 2×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 
+ s/pierna\n· 90/90 de cadera 5/lado\n\nPlan y registro: https://claude.a
+ i/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261226@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+TRANSP:TRANSPARENT
+SUMMARY:Activación suave + armar mochila
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Mueve las piernas y deja la mochila de Coch
+ amó cerrada y pesada.\n\nSesión\n30–40 min bici estática o caminata
+  Z2.\nArma la mochila de Cochamó: pesa y anota el total. Botiquín con 
+ vendaje para tobillo\, bastones\, frontal.\n\nPlan y registro: https://c
+ laude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+BEGIN:VEVENT
+UID:benja-plan-20261227@rumbo-al-sur
+DTSTAMP:20261124T004436Z
+LAST-MODIFIED:20261124T004436Z
+DTSTART;TZID=America/Santiago:20261227T194500
+DTEND;TZID=America/Santiago:20261227T211500
+SUMMARY:Viaje · bus 19:45 a Puerto Montt
+DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
+ 0 % volumen]\n\nQUÉ CAMBIA: Salida. Mañana subes a Cochamó (≈13 km 
+ con mochila completa\, 5–6 h\, por verificar).\n\nRutina de tobillo (1
+ 2 min\, no se salta nunca)\n· Knee-to-wall 2×10/lado (anota cm: izq op
+ erado / der)\n· Talón unilateral 2×15/pierna (2 s por rep)\n· Tibial
+  anterior en pared 2×20\n· Eversión/inversión: polea baja con tobill
+ era o banda 2×15/lado\n· Equilibrio monopodal ojos cerrados 2×45 s/pi
+ erna\n· 90/90 de cadera 5/lado\n\nDespués del plan\nDurante el viaje: 
+ fuerza de mantención 2 veces por semana\, 15–20 min sin equipo (desde
+  la semana 2): búlgara 3×10/pierna · step-down desde una roca 3×8/pi
+ erna · talón unilateral en escalón 3×15 · plancha frontal y lateral
+  3×40 s · equilibrio ojos cerrados 3×45 s.\n\nPlan y registro: https:
+ //claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+END:VEVENT
+END:VCALENDAR
