@@ -24,8 +24,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:benja-plan-20261123@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261123T210000
 DTEND;TZID=America/Santiago:20261123T211200
 SUMMARY:Rutina de tobillo
@@ -41,8 +41,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261124@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261124T214500
 DTEND;TZID=America/Santiago:20261124T223500
 SUMMARY:Bici Z2 45'
@@ -57,8 +57,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261125@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261125T190000
 DTEND;TZID=America/Santiago:20261125T203500
 SUMMARY:Fuerza A · Vuelve la carga (movida del martes)
@@ -88,8 +88,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261126@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261126T190000
 DTEND;TZID=America/Santiago:20261126T210000
 SUMMARY:Cardio fuerte · Umbral 3×12' + caminadora 12 kg
@@ -115,8 +115,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261127@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261127T190000
 DTEND;TZID=America/Santiago:20261127T203500
 SUMMARY:Fuerza B · Densidad con mochila 12 kg
@@ -139,8 +139,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261128@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -153,8 +153,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261129@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -167,8 +167,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261130@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261130T090000
 DTEND;TZID=America/Santiago:20261130T110000
 SUMMARY:Bici Z2 90' + tobillo + core
@@ -187,8 +187,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261201@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261201T090000
 DTEND;TZID=America/Santiago:20261201T104500
 SUMMARY:Fuerza A · Pico de fuerza 5×4 + 30' Z2
@@ -196,23 +196,24 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
  lumen]\n\nQUÉ CAMBIA: Cambio de rango a 5×4: +5–10 % de carga.\n\nCa
  lentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2×10/lado · 
  90/90 5/lado · monster walk 2×15 · talones 1×15\n\nBloque principal\
- nA1 Sentadilla: 5×4 @ RIR 2 · 65 kg (el 25/11 hiciste 60 kg × 5 ×4 a
-  RIR 2\; cambio de rango 5→4 = +5–10 %) · desc 3 min\nB1 RDL: 3×5
- –6 @ RIR 2 · 57\,5 kg (25/11: 55 kg × 6 a RIR 3/2/2)\nB2 Dead bug: 3
- ×8/lado · 10 kg\nC1 Búlgara: 3×6/pierna @ RIR 2 · 14 kg por mano\nC
- 2 Step-down: 3×8/pierna · cajón 35 cm + 6 kg\nD1 Gemelo: 3×8–10 ·
-  105 kg · D2 Sóleo: 3×15 · 27\,5 kg\nD3 Tibial 2×20 · E Pallof 3×
- 10/lado · 12\,5 kg\n\nFinal\n30 min bici Z2\n\nTobillo: cuándo parar\n
- Reduce si el dolor llega a 3/10\, sube durante la serie\, dura >24 h o h
- ay rigidez matinal >30–45 min.\nDetén y consulta si hay dolor sobre l
- a sindesmosis o la placa\, inestabilidad\, hinchazón\, hormigueo\, bloq
- ueo o Aquiles que empeora.\n\nPlan y registro: https://claude.ai/artifac
- t/JQ7wdtrhS6DH1xJ1UNpgNG
+ nOrden en el bloque C: primero el step-down (C2) y después la búlgara 
+ (C1)\, para que el step-down nunca quede fuera.\nA1 Sentadilla: 5×4 @ R
+ IR 2 · 65 kg (el 25/11 hiciste 60 kg × 5 ×4 a RIR 2\; cambio de rango
+  5→4 = +5–10 %) · desc 3 min\nB1 RDL: 3×5–6 @ RIR 2 · 57\,5 kg 
+ (25/11: 55 kg × 6 a RIR 3/2/2)\nB2 Dead bug: 3×8/lado · 10 kg\nC1 Bú
+ lgara: 3×6/pierna @ RIR 2 · 14 kg por mano\nC2 Step-down: 3×8/pierna 
+ · cajón 35 cm + 6 kg\nD1 Gemelo: 3×8–10 · 105 kg · D2 Sóleo: 3×
+ 15 · 27\,5 kg\nD3 Tibial 2×20 · E Pallof 3×10/lado · 12\,5 kg\n\nFi
+ nal\n30 min bici Z2\n\nTobillo: cuándo parar\nReduce si el dolor llega 
+ a 3/10\, sube durante la serie\, dura >24 h o hay rigidez matinal >30–
+ 45 min.\nDetén y consulta si hay dolor sobre la sindesmosis o la placa\
+ , inestabilidad\, hinchazón\, hormigueo\, bloqueo o Aquiles que empeora
+ .\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261202@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261202T090000
 DTEND;TZID=America/Santiago:20261202T101000
 SUMMARY:Cardio · VO₂max 5×3'
@@ -225,8 +226,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261203@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261203T090000
 DTEND;TZID=America/Santiago:20261203T105000
 SUMMARY:Cardio fuerte · Mixta bici + caminadora 12 kg
@@ -245,8 +246,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261204@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261204T090000
 DTEND;TZID=America/Santiago:20261204T102000
 SUMMARY:Fuerza B · Circuito ×4 con 12 kg
@@ -265,8 +266,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261205@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261205T073000
 DTEND;TZID=America/Santiago:20261205T123000
 SUMMARY:[Por confirmar] Carbón + Manquehue a tu ritmo\, 12 kg
@@ -286,8 +287,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261206@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261206T090000
 DTEND;TZID=America/Santiago:20261206T111500
 SUMMARY:Bici larga en gimnasio 2 h + core
@@ -303,8 +304,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261207@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261207T090000
 DTEND;TZID=America/Santiago:20261207T110000
 SUMMARY:Bici Z2 90' + tobillo + core
@@ -323,8 +324,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261208@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261208T090000
 DTEND;TZID=America/Santiago:20261208T103000
 SUMMARY:Feriado · Fuerza A + bici Z2 en la tarde
@@ -332,22 +333,23 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
  le]\n\nQUÉ CAMBIA: Doble sesión aprovechando el feriado. 4×4 con más
   carga.\n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 · knee-to-wall 2
  ×10/lado · 90/90 5/lado · monster walk 2×15 · talones 1×15\n\nMañ
- ana · Fuerza A\nA1 Sentadilla: 4×4 @ RIR 1–2 · 67\,5 kg (o +2\,5 kg
-  sobre el 1/12)\nB1 RDL: 3×5 @ RIR 2 · 60 kg\nB2 Dead bug: 3×8/lado 
- · 10 kg\nC1 Búlgara: 3×6/pierna @ RIR 2 · 16 kg por mano\nC2 Step-do
- wn: 3×8/pierna · 35 cm + 8 kg\nD1 Gemelo 3×8–10 · 110 kg · D2 Só
- leo 3×15 · 30 kg · D3 Tibial 2×20 · E Pallof 3×10 · 12\,5 kg\n\nT
- arde · Bici\n90 min Z2 (en la calle si la bici ya está lista\, plano y
-  suave).\n\nTobillo: cuándo parar\nReduce si el dolor llega a 3/10\, su
- be durante la serie\, dura >24 h o hay rigidez matinal >30–45 min.\nDe
- tén y consulta si hay dolor sobre la sindesmosis o la placa\, inestabil
- idad\, hinchazón\, hormigueo\, bloqueo o Aquiles que empeora.\n\nPlan y
-  registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+ ana · Fuerza A\nOrden en el bloque C: primero el step-down (C2) y despu
+ és la búlgara (C1).\nA1 Sentadilla: 4×4 @ RIR 1–2 · 67\,5 kg (o +2
+ \,5 kg sobre el 1/12)\nB1 RDL: 3×5 @ RIR 2 · 60 kg\nB2 Dead bug: 3×8/
+ lado · 10 kg\nC1 Búlgara: 3×6/pierna @ RIR 2 · 16 kg por mano\nC2 St
+ ep-down: 3×8/pierna · 35 cm + 8 kg\nD1 Gemelo 3×8–10 · 110 kg · D
+ 2 Sóleo 3×15 · 30 kg · D3 Tibial 2×20 · E Pallof 3×10 · 12\,5 kg
+ \n\nTarde · Bici\n90 min Z2 (en la calle si la bici ya está lista\, pl
+ ano y suave).\n\nTobillo: cuándo parar\nReduce si el dolor llega a 3/10
+ \, sube durante la serie\, dura >24 h o hay rigidez matinal >30–45 min
+ .\nDetén y consulta si hay dolor sobre la sindesmosis o la placa\, ines
+ tabilidad\, hinchazón\, hormigueo\, bloqueo o Aquiles que empeora.\n\nP
+ lan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261209@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261209T090000
 DTEND;TZID=America/Santiago:20261209T104000
 SUMMARY:Cardio · Umbral 3×15' + caminadora 13 %
@@ -360,8 +362,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261210@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261210T090000
 DTEND;TZID=America/Santiago:20261210T104000
 SUMMARY:Cardio fuerte · Cambios de ritmo + caminadora
@@ -378,8 +380,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261211@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261211T090000
 DTEND;TZID=America/Santiago:20261211T102000
 SUMMARY:Fuerza B · Circuito ×4 con 12 kg (rápido)
@@ -397,8 +399,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261212@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261212T073000
 DTEND;TZID=America/Santiago:20261212T113000
 SUMMARY:[Por confirmar] Bici larga 4 h\, Cajón del Maipo
@@ -419,8 +421,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261213@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261213T070000
 DTEND;TZID=America/Santiago:20261213T140000
 SUMMARY:[Por confirmar] Trekking ~1.200 m D+ con 12 kg
@@ -440,8 +442,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261214@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261214T090000
 DTEND;TZID=America/Santiago:20261214T103000
 SUMMARY:Bici Z2 60' + TEST 3 de tobillo
@@ -457,8 +459,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261215@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261215T090000
 DTEND;TZID=America/Santiago:20261215T104000
 SUMMARY:Fuerza A · Semana pico + TEST 3 + 20' Z2
@@ -466,21 +468,22 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
  nQUÉ CAMBIA: +2\,5 kg en la sentadilla y AMRAP de test. Última Fuerza 
  A con volumen completo.\n\nCalentamiento (8 min)\nBici 4 min RPE 3–4 
  · knee-to-wall 2×10/lado · 90/90 5/lado · monster walk 2×15 · talo
- nes 1×15\n\nBloque principal\nA1 Sentadilla: 4×4 @ RIR 1–2 · 70 kg 
- → luego 1 serie AMRAP hasta RIR 2 con 55 kg (TEST)\nB1 RDL: 3×5 @ RIR
-  2 · 62\,5 kg\nC1 Búlgara: 3×6/pierna · 16 kg · C2 Step-down: 3×8/
- pierna · 35 cm + 8 kg\nD1 Gemelo 110 kg · D2 Sóleo 30 kg · D3 Tibial
-  · E Pallof\n\nFinal\n20 min bici Z2\n\nTobillo: cuándo parar\nReduce 
- si el dolor llega a 3/10\, sube durante la serie\, dura >24 h o hay rigi
- dez matinal >30–45 min.\nDetén y consulta si hay dolor sobre la sinde
- smosis o la placa\, inestabilidad\, hinchazón\, hormigueo\, bloqueo o A
- quiles que empeora.\n\nPlan y registro: https://claude.ai/artifact/JQ7wd
- trhS6DH1xJ1UNpgNG
+ nes 1×15\n\nBloque principal\nOrden en el bloque C: primero el step-dow
+ n (C2) y después la búlgara (C1)\, para que el step-down nunca quede f
+ uera.\nA1 Sentadilla: 4×4 @ RIR 1–2 · 70 kg → luego 1 serie AMRAP 
+ hasta RIR 2 con 55 kg (TEST)\nB1 RDL: 3×5 @ RIR 2 · 62\,5 kg\nC1 Búlg
+ ara: 3×6/pierna · 16 kg · C2 Step-down: 3×8/pierna · 35 cm + 8 kg\n
+ D1 Gemelo 110 kg · D2 Sóleo 30 kg · D3 Tibial · E Pallof\n\nFinal\n2
+ 0 min bici Z2\n\nTobillo: cuándo parar\nReduce si el dolor llega a 3/10
+ \, sube durante la serie\, dura >24 h o hay rigidez matinal >30–45 min
+ .\nDetén y consulta si hay dolor sobre la sindesmosis o la placa\, ines
+ tabilidad\, hinchazón\, hormigueo\, bloqueo o Aquiles que empeora.\n\nP
+ lan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261216@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261216T090000
 DTEND;TZID=America/Santiago:20261216T102000
 SUMMARY:Cardio · VO₂max 7×3'
@@ -491,8 +494,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261217@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261217T090000
 DTEND;TZID=America/Santiago:20261217T104500
 SUMMARY:Cardio fuerte · Ensayo de mochila real 14 kg
@@ -507,8 +510,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261218@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261218T090000
 DTEND;TZID=America/Santiago:20261218T100000
 SUMMARY:Fuerza B ligera · tren superior + tobillo
@@ -526,8 +529,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261219@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261219T070000
 DTEND;TZID=America/Santiago:20261219T140000
 SUMMARY:[Por confirmar] Bikepacking día 1\, Cajón del Maipo
@@ -547,8 +550,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261220@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261220T073000
 DTEND;TZID=America/Santiago:20261220T143000
 SUMMARY:[Por confirmar] Bikepacking día 2: trekking + vuelta
@@ -565,8 +568,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261221@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 TRANSP:TRANSPARENT
@@ -585,8 +588,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261222@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261222T090000
 DTEND;TZID=America/Santiago:20261222T095500
 SUMMARY:Fuerza A · pre-salida
@@ -602,8 +605,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261223@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261223T090000
 DTEND;TZID=America/Santiago:20261223T095000
 SUMMARY:Cardio · VO₂max abridor 4×3'
@@ -616,8 +619,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261224@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261224T090000
 DTEND;TZID=America/Santiago:20261224T101500
 SUMMARY:Caminadora suave con 8 kg + tobillo
@@ -633,8 +636,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261225@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
@@ -650,8 +653,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261226@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 TRANSP:TRANSPARENT
@@ -665,8 +668,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261227@rumbo-al-sur
-DTSTAMP:20261126T015004Z
-LAST-MODIFIED:20261126T015004Z
+DTSTAMP:20261126T015028Z
+LAST-MODIFIED:20261126T015028Z
 DTSTART;TZID=America/Santiago:20261227T194500
 DTEND;TZID=America/Santiago:20261227T211500
 SUMMARY:Viaje · bus 19:45 a Puerto Montt
