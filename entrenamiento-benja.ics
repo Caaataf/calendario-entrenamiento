@@ -24,8 +24,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:benja-plan-20261123@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261123T210000
 DTEND;TZID=America/Santiago:20261123T211200
 SUMMARY:Rutina de tobillo
@@ -41,8 +41,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261124@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261124T214500
 DTEND;TZID=America/Santiago:20261124T223500
 SUMMARY:Bici Z2 45'
@@ -57,8 +57,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261125@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261125T190000
 DTEND;TZID=America/Santiago:20261125T203500
 SUMMARY:Fuerza A · Vuelve la carga (movida del martes)
@@ -88,8 +88,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261126@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 TRANSP:TRANSPARENT
@@ -108,52 +108,56 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261127@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
-DTSTART;TZID=America/Santiago:20261127T190000
-DTEND;TZID=America/Santiago:20261127T204500
-SUMMARY:Híbrida · Umbral 3×12' + Fuerza B recortada
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Descanso · durmió 3 h
 DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
-  trabajo]\n\nQUÉ CAMBIA: Junta el umbral del jueves (no hecho) con una 
- Fuerza B recortada. Sábado y domingo trabajas: rige la regla del vierne
- s. Si te falta tiempo\, corta en este orden: G → F → E → C. El blo
- que 1 y el tobillo no se cortan.\n\nBloque 1 · Umbral en bici (~55 min)
- \n12 min calentamiento (incluye 2×1 min a RPE 7) → 3×12 min a RPE 7\
- , recuperación 4 min suave → 3 min suave.\nReferencia: el 24/11\, 120
- –130 W te dejaron en FC 160 (Z3). Empieza el umbral en ~140 W\, nivel 
- 7–8\, y ajusta por la sensación: 3–5 palabras\, ~170–180 ppm. Si 
- el tercer intervalo sale peor que el primero\, empezaste muy fuerte.\n\n
- Bloque 2 · Fuerza B recortada (~45 min\, descansos 60 s)\nA Talón unil
- ateral 3×15/pierna (anota diferencia izq/der) + gemelo en prensa 2×10 
- · 100 kg + sóleo sentado 2×15 · 25 kg + tibial 2×20\nB1 Step-up 45 
- cm con mochila 12 kg: 3×10/pierna\nB2 Remo en máquina (superserie con 
- B1): 3×12 · 47\,5 kg\nC1 RDL a una pierna: 3×10/pierna @ RIR 3 · man
- cuerna 12 kg\nC2 Jalón (superserie con C1): 3×10 @ RIR 2 · 42\,5 kg\n
- D Eversión/inversión (polea baja o banda): 2×15/lado\nE Suitcase carr
- y: 2×50 m/lado · 16 kg\nF Plancha lateral: 2×45 s/lado\nG Equilibrio 
- inestable: 2×45 s/pierna\n\nSin prensa ni excéntrico pesado: mañana c
- aminas 20 km.\nRegla del viernes: si al terminar piensas que los 20 km d
- e mañana serán un problema\, avisa y ajustamos.\n\nPlan y registro: ht
- tps://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
+  trabajo]\n\nQUÉ CAMBIA: Cambio de Benja: la sesión pasa completa al s
+ ábado 08:00. Hoy: dormir temprano\, cenar con carbohidratos y proteína
+ .\n\nDescanso. Si puedes\, 12 min de tobillo antes de dormir\; si no\, n
+ ada.\n\nPlan y registro: https://claude.ai/artifact/JQ7wdtrhS6DH1xJ1UNpg
+ NG
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261128@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-TRANSP:TRANSPARENT
-SUMMARY:Trabajo · último fin de semana
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
+DTSTART;TZID=America/Santiago:20261128T080000
+DTEND;TZID=America/Santiago:20261128T094500
+SUMMARY:Híbrida (movida del viernes) · Umbral 3×12' + Fuerza B recorta
+ da · luego trabajo
 DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
-  trabajo]\n\nQUÉ CAMBIA: Último fin de semana de trabajo. Los >20 km c
- aminando cuentan como carga aeróbica.\n\nCome durante el turno\, hidrá
- tate y cena con carbohidratos.\n\nPlan y registro: https://claude.ai/art
- ifact/JQ7wdtrhS6DH1xJ1UNpgNG
+  trabajo]\n\nQUÉ CAMBIA: Movida del viernes por cambio de Benja (durmi
+ ó 3 h). Gimnasio 08:00\, trabajo 11:00 con >20 km caminando. Si al desp
+ ertar sigues muy cansado\, el umbral pasa a 45 min de Z2. Si te falta ti
+ empo\, corta en este orden: G → F → E → C. El bloque 1 y el tobill
+ o no se cortan.\n\nBloque 1 · Umbral en bici (~55 min)\n12 min calentam
+ iento (incluye 2×1 min a RPE 7) → 3×12 min a RPE 7\, recuperación 4
+  min suave → 3 min suave.\nReferencia: el 24/11\, 120–130 W te dejar
+ on en FC 160 (Z3). Empieza el umbral en ~140 W\, nivel 7–8\, y ajusta 
+ por la sensación: 3–5 palabras\, ~170–180 ppm. Si el tercer interva
+ lo sale peor que el primero\, empezaste muy fuerte.\n\nBloque 2 · Fuerz
+ a B recortada (~45 min\, descansos 60 s)\nA Talón unilateral 3×15/pier
+ na (anota diferencia izq/der) + gemelo en prensa 2×10 · 100 kg + sóle
+ o sentado 2×15 · 25 kg + tibial 2×20\nB1 Step-up 45 cm con mochila 12
+  kg: 3×10/pierna\nB2 Remo en máquina (superserie con B1): 3×12 · 47\
+ ,5 kg\nC1 RDL a una pierna: 3×10/pierna @ RIR 3 · mancuerna 12 kg\nC2 
+ Jalón (superserie con C1): 3×10 @ RIR 2 · 42\,5 kg\nD Eversión/inver
+ sión (polea baja o banda): 2×15/lado\nE Suitcase carry: 2×50 m/lado 
+ · 16 kg\nF Plancha lateral: 2×45 s/lado\nG Equilibrio inestable: 2×45
+  s/pierna\n\nSin prensa ni excéntrico pesado: hoy caminas 20 km en el t
+ rabajo.\nDesayuna antes (carbohidrato + proteína) y lleva comida para e
+ l turno.\nSi al terminar sientes que el turno va a ser un problema\, la 
+ próxima semana se recorta el step-up.\n\nPlan y registro: https://claud
+ e.ai/artifact/JQ7wdtrhS6DH1xJ1UNpgNG
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261129@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -166,8 +170,8 @@ DESCRIPTION:[S8 · 23–29 nov · Carga desde mañana · último finde de
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261130@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261130T090000
 DTEND;TZID=America/Santiago:20261130T110000
 SUMMARY:Bici Z2 90' + tobillo + core
@@ -186,8 +190,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261201@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261201T090000
 DTEND;TZID=America/Santiago:20261201T104500
 SUMMARY:Fuerza A · Pico de fuerza 5×4 + 30' Z2
@@ -211,8 +215,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261202@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261202T090000
 DTEND;TZID=America/Santiago:20261202T101000
 SUMMARY:Cardio · VO₂max 5×3'
@@ -225,8 +229,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261203@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261203T090000
 DTEND;TZID=America/Santiago:20261203T105000
 SUMMARY:Cardio fuerte · Mixta bici + caminadora 12 kg
@@ -246,8 +250,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261204@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261204T090000
 DTEND;TZID=America/Santiago:20261204T102000
 SUMMARY:Fuerza B · Circuito ×4 con 12 kg
@@ -266,8 +270,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261205@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261205T073000
 DTEND;TZID=America/Santiago:20261205T123000
 SUMMARY:[Por confirmar] Carbón + Manquehue a tu ritmo\, 12 kg
@@ -287,8 +291,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261206@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261206T090000
 DTEND;TZID=America/Santiago:20261206T111500
 SUMMARY:Bici larga en gimnasio 2 h + core
@@ -304,8 +308,8 @@ DESCRIPTION:[S9 · 30 nov – 6 dic · Fines de semana libres: sube el vo
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261207@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261207T090000
 DTEND;TZID=America/Santiago:20261207T110000
 SUMMARY:Bici Z2 90' + tobillo + core
@@ -324,8 +328,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261208@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261208T090000
 DTEND;TZID=America/Santiago:20261208T103000
 SUMMARY:Feriado · Fuerza A + bici Z2 en la tarde
@@ -348,8 +352,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261209@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261209T090000
 DTEND;TZID=America/Santiago:20261209T104000
 SUMMARY:Cardio · Umbral 3×15' + caminadora 13 %
@@ -362,8 +366,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261210@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261210T090000
 DTEND;TZID=America/Santiago:20261210T104000
 SUMMARY:Cardio fuerte · Cambios de ritmo + caminadora
@@ -380,8 +384,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261211@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261211T090000
 DTEND;TZID=America/Santiago:20261211T102000
 SUMMARY:Fuerza B · Circuito ×4 con 12 kg (rápido)
@@ -399,8 +403,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261212@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261212T073000
 DTEND;TZID=America/Santiago:20261212T113000
 SUMMARY:[Por confirmar] Bici larga 4 h\, Cajón del Maipo
@@ -421,8 +425,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261213@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261213T070000
 DTEND;TZID=America/Santiago:20261213T140000
 SUMMARY:[Por confirmar] Trekking ~1.200 m D+ con 12 kg
@@ -442,8 +446,8 @@ DESCRIPTION:[S10 · 7–13 dic · Volumen alto · vuelve la bici a la cal
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261214@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261214T090000
 DTEND;TZID=America/Santiago:20261214T103000
 SUMMARY:Bici Z2 60' + TEST 3 de tobillo
@@ -459,8 +463,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261215@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261215T090000
 DTEND;TZID=America/Santiago:20261215T104000
 SUMMARY:Fuerza A · Semana pico + TEST 3 + 20' Z2
@@ -482,8 +486,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261216@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261216T090000
 DTEND;TZID=America/Santiago:20261216T102000
 SUMMARY:Cardio · VO₂max 7×3'
@@ -494,8 +498,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261217@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261217T090000
 DTEND;TZID=America/Santiago:20261217T104500
 SUMMARY:Cardio fuerte · Ensayo de mochila real 14 kg
@@ -510,8 +514,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261218@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261218T090000
 DTEND;TZID=America/Santiago:20261218T100000
 SUMMARY:Fuerza B ligera · tren superior + tobillo
@@ -529,8 +533,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261219@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261219T070000
 DTEND;TZID=America/Santiago:20261219T140000
 SUMMARY:[Por confirmar] Bikepacking día 1\, Cajón del Maipo
@@ -550,8 +554,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261220@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261220T073000
 DTEND;TZID=America/Santiago:20261220T143000
 SUMMARY:[Por confirmar] Bikepacking día 2: trekking + vuelta
@@ -568,8 +572,8 @@ DESCRIPTION:[S11 · 14–20 dic · Semana pico: ensayo de expedición]\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261221@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 TRANSP:TRANSPARENT
@@ -588,8 +592,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261222@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261222T090000
 DTEND;TZID=America/Santiago:20261222T095500
 SUMMARY:Fuerza A · pre-salida
@@ -605,8 +609,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261223@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261223T090000
 DTEND;TZID=America/Santiago:20261223T095000
 SUMMARY:Cardio · VO₂max abridor 4×3'
@@ -619,8 +623,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261224@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261224T090000
 DTEND;TZID=America/Santiago:20261224T101500
 SUMMARY:Caminadora suave con 8 kg + tobillo
@@ -636,8 +640,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261225@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
@@ -653,8 +657,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261226@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 TRANSP:TRANSPARENT
@@ -668,8 +672,8 @@ DESCRIPTION:[S12 · 21–27 dic · Pre-salida: intensidad completa\, −4
 END:VEVENT
 BEGIN:VEVENT
 UID:benja-plan-20261227@rumbo-al-sur
-DTSTAMP:20261126T232738Z
-LAST-MODIFIED:20261126T232738Z
+DTSTAMP:20261128T002026Z
+LAST-MODIFIED:20261128T002026Z
 DTSTART;TZID=America/Santiago:20261227T194500
 DTEND;TZID=America/Santiago:20261227T211500
 SUMMARY:Viaje · bus 19:45 a Puerto Montt
